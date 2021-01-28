@@ -1,0 +1,2 @@
+# mypkg
+Package for teaching
