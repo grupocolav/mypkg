@@ -34,7 +34,7 @@ if os.name in ('nt', 'dos'):
 def main():
     setup(
         # Application name:
-        name="mypkg",
+        name="mypkgcolav",
 
         # Version number (initial):
         version="0.1.0",

@@ -1,5 +1,5 @@
 import unittest
-from mypkg import mypkg
+from mypkgcolav import mypkg
 class MyTestCase(unittest.TestCase):
 
     def setUp(self):
